@@ -2,7 +2,7 @@
 this assignment uses MPI “Single Program Multiple Data (SPMD)” distributed memory parallelism to run stencil code from one core up to all cores of 2 nodes.
 
 
-### Building and running the code
+## Building and running the code
 
 1. you have to run the following command to configure environment.
 
@@ -52,7 +52,7 @@ The reference input files for the different problems are named:
 | 8000 | 8000 | 100    | `stencil_8000_8000_100.pgm` |
 
 
-### Final results
+## Final results
 
 |           | Before optimisation | Before optimisation |
 | :-------- | :------------------ | :------------------ |
