@@ -24,11 +24,11 @@ this assignment uses MPI “Single Program Multiple Data (SPMD)” distributed m
 
 4. The inputs required are:
 
-| nx   | ny   | niters | Command                   | Runtime         |
-| ---- | ---- | ------ | ------------------------- | --------------- |
-| 1024 | 1024 | 100    | `./stencil 1024 1024 100` | ~ 0.11 seconds  |
-| 4096 | 4096 | 100    | `./stencil 4096 4096 100` | ~ 2.88 seconds  |
-| 8000 | 8000 | 100    | `./stencil 8000 8000 100` | ~ 10.35 seconds |
+| nx   | ny   | niters | Command                   |
+| ---- | ---- | ------ | ------------------------- |
+| 1024 | 1024 | 100    | `./stencil 1024 1024 100` |
+| 4096 | 4096 | 100    | `./stencil 4096 4096 100` |
+| 8000 | 8000 | 100    | `./stencil 8000 8000 100` |
 
 
 ## Checking the results
