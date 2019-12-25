@@ -54,7 +54,7 @@ The reference input files for the different problems are named:
 
 ## Final results
 
-|           | Before optimisation | Before optimisation |
+|           | Before optimisation | After optimisation |
 | :-------- | :------------------ | :------------------ |
 | 1024*1024 | 0.110686 s          | 0.028604 s          |
 | 4096*4096 | 2.878536 s          | 0.180593 s          |
