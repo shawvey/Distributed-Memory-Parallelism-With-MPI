@@ -1,3 +1,4 @@
+[中文版项目介绍](https://shawvey.github.io/%E4%BD%BF%E7%94%A8MPI%E8%BF%9B%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/)
 # Distributed-Memory-Parallelism-With-MPI
 this assignment uses MPI “Single Program Multiple Data (SPMD)” distributed memory parallelism to run stencil code from one core up to all cores of 2 nodes.
 
